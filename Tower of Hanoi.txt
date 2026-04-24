@@ -1,0 +1,10 @@
+Output:
+Enter the number of disks: 3
+
+Disk 1: A -> B
+Disk 2: A -> C
+Disk 1: B -> C
+Disk 3: A -> B
+Disk 1: C -> A
+Disk 2: C -> B
+Disk 1: A -> B
